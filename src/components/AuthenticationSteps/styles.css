@@ -1,0 +1,10 @@
+.authenticationStepsWrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.loginButton{
+    color: white;
+    background-color: blue;
+    border: none;
+}

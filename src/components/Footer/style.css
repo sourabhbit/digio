@@ -1,0 +1,8 @@
+.footerWrapper{
+    background-color: black;
+    text-align: center;
+    color: #0984e3;
+    bottom: 0;
+    /* position: fixed; */
+    width: 100%;
+}

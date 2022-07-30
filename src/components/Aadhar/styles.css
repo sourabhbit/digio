@@ -1,0 +1,26 @@
+.aadharWrapper{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.loginButton{
+    color: white;
+    background-color: blue;
+    border: none;
+}
+
+
+.gap-10{
+	gap: 10px
+}
+
+.nonactive{
+    background-color: #999;
+    color: white;
+}
+
+.active{
+    background-color: blue;
+    color: white;
+}

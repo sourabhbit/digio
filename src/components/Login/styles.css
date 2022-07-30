@@ -1,0 +1,20 @@
+.authenticationStepsWrapper{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.loginButton{
+    color: white;
+    border: none;
+}
+
+.nonactive{
+    background-color: #999;
+    color: white;
+}
+
+.active{
+    background-color: blue;
+    color: white;
+}
